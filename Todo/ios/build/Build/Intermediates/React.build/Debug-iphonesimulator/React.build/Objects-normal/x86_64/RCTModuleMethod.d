@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Profiler/RCTProfile.h

@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/Libraries/Image/RCTImageUtils.h

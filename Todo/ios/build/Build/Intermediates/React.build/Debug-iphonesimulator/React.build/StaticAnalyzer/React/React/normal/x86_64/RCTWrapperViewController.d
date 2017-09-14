@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/prasanndubey/ReactNativeRouterFlex/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
